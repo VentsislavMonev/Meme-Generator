@@ -6,6 +6,10 @@ The app allows users to:
 - Type a **top** and **bottom** text to overlay on a meme image.
 - Click a button to display a **random meme image** from a fetched list while keeping the text intact.
 
+## 🚀 Live Demo
+
+[Live Demo](https://cheery-peony-464979.netlify.app)
+
 ---
 
 ## 🛠 Tech Stack
